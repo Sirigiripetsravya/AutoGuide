@@ -1,0 +1,10 @@
+spacy==3.5.2
+nltk==3.8.1
+scikit-learn==1.3.0
+joblib==1.3.2
+pandas==1.5.3
+numpy==1.23.5
+seaborn==0.12.2
+matplotlib==3.7.1
+Flask==2.2.3  # If you plan to deploy as an API
+gunicorn==21.2.0  # For deploying on cloud services
